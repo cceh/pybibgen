@@ -1,4 +1,4 @@
-zotbibgen_settings.py
+pybibgen_settings.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
